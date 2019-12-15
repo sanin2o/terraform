@@ -1,0 +1,6 @@
+aws_access_key       = ""
+aws_secret_key       = ""
+region               = "eu-central-1"
+bucket_name          = "www.example.com"
+billing_id           = "7dTqjn4v"
+website_objects_path = "..\\..\\..\\www.example.com\\" # Windows path example
